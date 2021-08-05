@@ -8,6 +8,7 @@ public class GameManager : MonoBehaviour
 
     private UIManager _uiManager;
 
+    public bool firstStart { get; private set; } = true;
 
     private int _health;
     private int _love;

@@ -14,6 +14,10 @@ public class UIManager : MonoBehaviour
                    _healthSlider, 
                    _hungerSlider;
 
+    [SerializeField]
+    private TextMeshProUGUI _foodBowlTime,
+                            _waterBowlTime;
+
 
     private void Awake()
     {
