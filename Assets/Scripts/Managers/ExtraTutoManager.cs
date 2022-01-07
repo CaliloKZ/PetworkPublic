@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
-public class ExtraTutoManager : MonoBehaviour
+public class ExtraTutoManager : MonoBehaviour  //tutorial extra ao abrir certas funções pela primeira vez no game.
 {
     [SerializeField]
     private FoodBowl _bowls;
