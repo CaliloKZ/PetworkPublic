@@ -18,4 +18,7 @@ public class Sound
     [HideInInspector]
     public AudioSource source;
 
+    [TextArea]
+    public string description;
+
 }

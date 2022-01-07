@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f4771f3e5699654795750d53ae63318, type: 3}
+  m_Name: Cat12
+  m_EditorClassIdentifier: 
+  catName: Sigrid
+  obtained: 0
+  catID: 12
+  spr: {fileID: -8826281577665841549, guid: f1466e962f5c81f4786f189f8b6b66a7, type: 3}
+  closedEyesSpr: {fileID: 2191449456605975228, guid: b7707a5c239ab714e8d88f868e8a395c, type: 3}
+  boxSprite: {fileID: -2739427686166344954, guid: e6c55cbd2a96ea447a820e5178cbd822, type: 3}
+  houseSprite: {fileID: 6942071305387608240, guid: b7707a5c239ab714e8d88f868e8a395c, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f4771f3e5699654795750d53ae63318, type: 3}
+  m_Name: Cat11
+  m_EditorClassIdentifier: 
+  catName: Wally
+  obtained: 0
+  catID: 11
+  spr: {fileID: -1574930325642111573, guid: f1466e962f5c81f4786f189f8b6b66a7, type: 3}
+  closedEyesSpr: {fileID: -10727506850400586, guid: b7707a5c239ab714e8d88f868e8a395c, type: 3}
+  boxSprite: {fileID: 5118191343913808292, guid: e6c55cbd2a96ea447a820e5178cbd822, type: 3}
+  houseSprite: {fileID: -1859936423864080110, guid: b7707a5c239ab714e8d88f868e8a395c, type: 3}

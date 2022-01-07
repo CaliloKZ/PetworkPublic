@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f4771f3e5699654795750d53ae63318, type: 3}
+  m_Name: Cat13
+  m_EditorClassIdentifier: 
+  catName: Cappuccino
+  obtained: 0
+  catID: 13
+  spr: {fileID: 777155122226635943, guid: f1466e962f5c81f4786f189f8b6b66a7, type: 3}
+  closedEyesSpr: {fileID: 9206015985974419845, guid: b7707a5c239ab714e8d88f868e8a395c, type: 3}
+  boxSprite: {fileID: 6284536439243340980, guid: e6c55cbd2a96ea447a820e5178cbd822, type: 3}
+  houseSprite: {fileID: -2144873833424526922, guid: b7707a5c239ab714e8d88f868e8a395c, type: 3}

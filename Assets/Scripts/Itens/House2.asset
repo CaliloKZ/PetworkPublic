@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe9f910ab713444429c0b0699dafdbda, type: 3}
+  m_Name: House2
+  m_EditorClassIdentifier: 
+  itemName: Casinha
+  itemDesc: "Uma casinha confort\xE1vel para seu gatinho."
+  itemTypeID: 3
+  itemID: 15
+  price: 30
+  spr: {fileID: -87560093435559145, guid: c95d20acbe629f04283e1815a8c6500e, type: 3}
+  emptySpr: {fileID: 0}
+  bought: 0

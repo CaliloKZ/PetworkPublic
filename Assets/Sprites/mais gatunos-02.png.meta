@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: b7707a5c239ab714e8d88f868e8a395c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2552461314084864907
+    second: mais gatunos-02_0
+  - first:
+      213: 2606660881780424529
+    second: mais gatunos-02_1
+  - first:
+      213: 5267220473941636545
+    second: mais gatunos-02_2
+  - first:
+      213: -6711508453086347169
+    second: mais gatunos-02_3
+  - first:
+      213: -4002301348546496532
+    second: mais gatunos-02_4
+  - first:
+      213: -1859936423864080110
+    second: mais gatunos-02_5
+  - first:
+      213: 6942071305387608240
+    second: mais gatunos-02_6
+  - first:
+      213: -2144873833424526922
+    second: mais gatunos-02_7
+  - first:
+      213: 1095416611522290413
+    second: mais gatunos-02_8
+  - first:
+      213: -1188545240228438338
+    second: mais gatunos-02_9
+  - first:
+      213: -976685140799904242
+    second: mais gatunos-02_10
+  - first:
+      213: -6622402731219808059
+    second: mais gatunos-02_11
+  - first:
+      213: 2690706304106666051
+    second: mais gatunos-02_12
+  - first:
+      213: 5014572854310529426
+    second: mais gatunos-02_13
+  - first:
+      213: 1269608734990608579
+    second: mais gatunos-02_14
+  - first:
+      213: -10727506850400586
+    second: mais gatunos-02_15
+  - first:
+      213: 2191449456605975228
+    second: mais gatunos-02_16
+  - first:
+      213: 9206015985974419845
+    second: mais gatunos-02_17
+  - first:
+      213: -5842444749397725151
+    second: mais gatunos-02_18
+  - first:
+      213: -3056256564566969094
+    second: mais gatunos-02_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mais gatunos-02_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2863
+        width: 871
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8384f8aa0a2c6320800000000000000
+      internalID: 2552461314084864907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mais gatunos-02_1
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 2863
+        width: 869
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fbd64e248bc2420800000000000000
+      internalID: 2606660881780424529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mais gatunos-02_2
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 2847
+        width: 873
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5b4f63d1de81940800000000000000
+      internalID: 5267220473941636545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mais gatunos-02_3
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 2885
+        width: 869
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50c1cafe9eebd2a0800000000000000
+      internalID: -6711508453086347169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mais gatunos-02_4
+      rect:
+        serializedVersion: 2
+        x: 4493
+        y: 2863
+        width: 868
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7b1dbe028f478c0800000000000000
+      internalID: -4002301348546496532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mais gatunos-02_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2016
+        width: 874
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21965c64dad2036e0800000000000000
+      internalID: -1859936423864080110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mais gatunos-02_6
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 2000
+        width: 868
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b88f035211375060800000000000000
+      internalID: 6942071305387608240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mais gatunos-02_7
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 2016
+        width: 873
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b163becc90eb32e0800000000000000
+      internalID: -2144873833424526922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mais gatunos-02_8
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 1997
+        width: 868
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de229daba93b33f00800000000000000
+      internalID: 1095416611522290413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mais gatunos-02_9
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 2010
+        width: 869
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebed3b4b660718fe0800000000000000
+      internalID: -1188545240228438338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mais gatunos-02_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1120
+        width: 871
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0628350a0e1272f0800000000000000
+      internalID: -976685140799904242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mais gatunos-02_11
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1120
+        width: 869
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0111e8dcf7814a0800000000000000
+      internalID: -6622402731219808059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mais gatunos-02_12
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 1105
+        width: 873
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3489e2ba02f475520800000000000000
+      internalID: 2690706304106666051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mais gatunos-02_13
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 1141
+        width: 869
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299ee715177579540800000000000000
+      internalID: 5014572854310529426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mais gatunos-02_14
+      rect:
+        serializedVersion: 2
+        x: 4493
+        y: 1114
+        width: 868
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c829d4fa6e8e9110800000000000000
+      internalID: 1269608734990608579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mais gatunos-02_15
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 273
+        width: 874
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b63bdca363e9dff0800000000000000
+      internalID: -10727506850400586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mais gatunos-02_16
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 257
+        width: 868
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2d8348ba7996e10800000000000000
+      internalID: 2191449456605975228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mais gatunos-02_17
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 273
+        width: 873
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581a29083c652cf70800000000000000
+      internalID: 9206015985974419845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mais gatunos-02_18
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 267
+        width: 868
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1207d4c74777beea0800000000000000
+      internalID: -5842444749397725151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mais gatunos-02_19
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 224
+        width: 869
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4b786e8def595d0800000000000000
+      internalID: -3056256564566969094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

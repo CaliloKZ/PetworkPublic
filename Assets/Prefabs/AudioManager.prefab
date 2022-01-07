@@ -15,7 +15,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &7558974630309165631
 Transform:
@@ -43,8 +43,99 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 700e741fc7a3aaa419b41de7ec1f7058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  music: []
-  sfx: []
+  music:
+  - name: Background
+    clip: {fileID: 8300000, guid: 33b6fed28e7e0c842a7f3e7fd37976e4, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+    description: "M\xFAsica de fundo"
+  sfx:
+  - name: Food
+    clip: {fileID: 8300000, guid: 5d6d61fb2345ab841807900c7ce59fce, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+    description: Som ao encher o pote de comida
+  - name: Hand
+    clip: {fileID: 8300000, guid: 2524f7235e739d24684da8f9afc1172e, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+    description: "Som ao fazer carinho com a m\xE3o"
+  - name: EndPlay
+    clip: {fileID: 8300000, guid: 1e9fc9da8c19e534da3cd03f11a3a63c, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+    description: Som ao terminar carinho
+  - name: Meow
+    clip: {fileID: 8300000, guid: 7639d609af0aa6345bc80b8bc555404a, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+    description: Miado
+  - name: ButtonPress
+    clip: {fileID: 8300000, guid: 8ee88a5f893c5cb409b5de87ac650989, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+    description: "Som ao clicar em bot\xF5es da UI"
+  - name: Purr
+    clip: {fileID: 8300000, guid: 16df92578c9e44b4d802cd2abb96b65a, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+    description: Som ao fazer carinho
+  - name: CloseUI
+    clip: {fileID: 8300000, guid: 9a229c3e21df4d64db27f62eb4debfce, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+    description: Som ao fazer carinho
+  - name: Snack
+    clip: {fileID: 8300000, guid: 1ae2f51f8b3848b468ac101e840a9adc, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+    description: Som ao comer o petisco
+  - name: Water
+    clip: {fileID: 8300000, guid: 0c3c6c452d1b5fc48a25b675e961bab7, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+    description: "Som ao colocar \xE1gua na tigela"
+  - name: Sandbox
+    clip: {fileID: 8300000, guid: 93e47cba3e9b5eb43aa7e73d3b5b565a, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+    description: Som ao limpar a caixa de areia
+  - name: Buy
+    clip: {fileID: 8300000, guid: c179379684f71994fb4785d49630eeb3, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+    description: Som ao limpar a caixa de areia
+  - name: yay
+    clip: {fileID: 8300000, guid: 7cd30c3bc2c944b40a2b145b062d0a0f, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+    description: Som ao limpar a caixa de areia
   outputs:
   - {fileID: 2357664057638867086, guid: 972fd0107bd6870418289c6642d89d38, type: 2}
   - {fileID: -7710358015895338838, guid: 972fd0107bd6870418289c6642d89d38, type: 2}

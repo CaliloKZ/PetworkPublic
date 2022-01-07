@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe9f910ab713444429c0b0699dafdbda, type: 3}
+  m_Name: FoodBowlB
+  m_EditorClassIdentifier: 
+  itemName: Tigela de comida azul
+  itemDesc: Muda a cor da sua tigela de comida para azul!
+  itemTypeID: 0
+  itemID: 0
+  price: 0
+  spr: {fileID: -8691881464026132051, guid: 119dfd692f9f1b94c88fee38159fcc0c, type: 3}
+  emptySpr: {fileID: -7017527328270053322, guid: 119dfd692f9f1b94c88fee38159fcc0c, type: 3}
+  bought: 0

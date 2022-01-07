@@ -129,18 +129,6 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 3
-    compressionQuality: 50
-    crunchedCompression: 1
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -148,10 +136,10 @@ TextureImporter:
       name: gatunos_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2754
-        width: 2074
-        height: 2387
+        x: 122
+        y: 1427
+        width: 1003
+        height: 1198
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -169,10 +157,10 @@ TextureImporter:
       name: gatunos_1
       rect:
         serializedVersion: 2
-        x: 2178
-        y: 2711
-        width: 2004
-        height: 2430
+        x: 1177
+        y: 1404
+        width: 1003
+        height: 1198
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,10 +178,10 @@ TextureImporter:
       name: gatunos_2
       rect:
         serializedVersion: 2
-        x: 4274
-        y: 2687
-        width: 2000
-        height: 2396
+        x: 2222
+        y: 1392
+        width: 1006
+        height: 1197
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -211,10 +199,10 @@ TextureImporter:
       name: gatunos_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 2000
-        height: 2411
+        x: 83
+        y: 60
+        width: 1003
+        height: 1198
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -232,10 +220,10 @@ TextureImporter:
       name: gatunos_4
       rect:
         serializedVersion: 2
-        x: 2142
-        y: 0
-        width: 2009
-        height: 2387
+        x: 1161
+        y: 47
+        width: 999
+        height: 1198
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,10 +241,10 @@ TextureImporter:
       name: gatunos_5
       rect:
         serializedVersion: 2
-        x: 4274
-        y: 22
-        width: 2000
-        height: 2395
+        x: 2222
+        y: 62
+        width: 1006
+        height: 1199
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

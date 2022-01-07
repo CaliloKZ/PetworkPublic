@@ -1,6 +1,8 @@
 ﻿using UnityEngine.Audio;
 using System;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.Events;
 
 public class SoundManager : MonoBehaviour
 {
@@ -46,6 +48,7 @@ public class SoundManager : MonoBehaviour
             s.source.outputAudioMixerGroup = outputs[1];
         }
     }
+  
 
     public void PlayMusic(string name)
     {
@@ -73,5 +76,26 @@ public class SoundManager : MonoBehaviour
             return;
         }
         s.source.Play();
+    }
+
+    public void StopSFX(string name)
+    {
+        Sound s = Array.Find(sfx, sound => sound.name == name);
+        if (s == null)
+        {
+            Debug.LogWarning("SFX: " + name + " not found!");
+            return;
+        }
+        s.source.Stop();
+    }
+
+    public void ChangeSFXVolume()
+    {
+        
+    }
+
+    public void ChangeMusicVolume()
+    {
+
     }
 }

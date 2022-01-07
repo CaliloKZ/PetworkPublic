@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe9f910ab713444429c0b0699dafdbda, type: 3}
+  m_Name: RugG
+  m_EditorClassIdentifier: 
+  itemName: Tapete
+  itemDesc: Muda a cor do seu tapete para verde!
+  itemTypeID: 2
+  itemID: 13
+  price: 10
+  spr: {fileID: 8521272782945452800, guid: 296bd49f23b03c44796f97fa76405d82, type: 3}
+  emptySpr: {fileID: 0}
+  bought: 0
